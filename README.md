@@ -4,7 +4,7 @@ Group Project for CSC 221 2023FA
 
 Owner: James Ammons jaammons@my.waketech.edu
 
-Project Description: 
+Project Description: Web scraping project to gather data from ??? - Wikipedia page and graph/plot the data in a meaningful and visual way.
 
 Webscraped URL: 
 
