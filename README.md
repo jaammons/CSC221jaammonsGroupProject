@@ -7,4 +7,4 @@ __Project Description:__ Web scraping project to gather data from 2023 FedEx Cup
 
 __Webscraped URL:__ (https://en.wikipedia.org/wiki/2023_FedEx_Cup_Playoffs)
 
-__Collaborator:__ Mariam Ahmed (msahmed@my.waketech.edu) ACCEPTED: 
+__Collaborator:__ Mariam Ahmed (msahmed@my.waketech.edu) ACCEPTED
